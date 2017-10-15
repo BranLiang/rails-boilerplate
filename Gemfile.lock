@@ -43,6 +43,7 @@ GEM
     arel (8.0.0)
     ast (2.3.0)
     bindex (0.5.0)
+    brakeman (4.0.1)
     builder (3.2.3)
     byebug (9.1.0)
     capybara (2.15.4)
@@ -192,6 +193,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  brakeman
   byebug
   capybara (~> 2.13)
   jbuilder (~> 2.5)
@@ -211,4 +213,4 @@ DEPENDENCIES
   webpacker
 
 BUNDLED WITH
-   1.15.4
+   1.16.0.pre.3
