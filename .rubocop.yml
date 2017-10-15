@@ -3,8 +3,8 @@ AllCops:
   Include:
     - Rakefile
     - config.ru
-    - lib/**/*.rake
   Exclude:
     - Gemfile
     - node_modules/**/*
     - db/schema.rb
+    - lib/**/*.rake
