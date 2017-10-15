@@ -31,3 +31,11 @@ This is a rails application template to boost your application setup speed.
 - [ ] [rack-cors](https://github.com/cyu/rack-cors)
 - [ ] [Optimized JSON](https://github.com/ohler55/oj)
 - [ ] [rack-attack](https://github.com/kickstarter/rack-attack)
+
+## Setup
+```ruby
+# Step 1
+bundle install
+# Step 2
+overcommit --sign
+```
