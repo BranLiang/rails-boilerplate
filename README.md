@@ -1,24 +1,33 @@
-# README
+# bran-liang/rails-boilerplate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
+This is a rails application template to boost your application setup speed.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Checks
+- [ ] [Rubocop](https://github.com/bbatsov/rubocop)
+- [ ] [Brakeman](https://github.com/presidentbeef/brakeman)
+- [ ] [Pry rails](https://github.com/rweng/pry-rails)
+- [ ] [Pry byebug](https://github.com/deivid-rodriguez/pry-byebug)
+- [ ] [Devise](https://github.com/plataformatec/devise)
+- [ ] [Pundit](https://github.com/elabs/pundit)
+- [ ] Controller concerns(SkipAuthorization)
+- [ ] [Pagination kaminari](https://github.com/kaminari/kaminari)
+- [ ] [Searching filtering Ransack](https://github.com/activerecord-hackery/ransack)
+- [ ] Customize Generators Configuration
+- [ ] [Active Model Serializer](https://github.com/rails-api/active_model_serializers)
+- [ ] Remove never used gems
+- [ ] [Figaro](https://github.com/laserlemon/figaro)
+- [ ] [Overcommit](https://github.com/brigade/overcommit)
+- [ ] [Capistrano](https://github.com/capistrano/capistrano)
+- [ ] [Sidekiq](http://sidekiq.org/)
+- [ ] [annotate](https://github.com/ctran/annotate_models)
+- [ ] [guard](https://github.com/guard/guard)
+- [ ] [secureheaders](https://github.com/twitter/secureheaders)
+- [ ] [simplecov](https://github.com/colszowka/simplecov)
+- [ ] [Template engine Slim](https://github.com/slim-template/slim)
+- [ ] [Lograge](https://github.com/roidrage/lograge)
+- [ ] [Timeout](https://github.com/heroku/rack-timeout)
+- [ ] [Bullet](https://github.com/flyerhzm/bullet)
+- [ ] [rack-cors](https://github.com/cyu/rack-cors)
+- [ ] [Optimized JSON](https://github.com/ohler55/oj)
+- [ ] [rack-attack](https://github.com/kickstarter/rack-attack)
