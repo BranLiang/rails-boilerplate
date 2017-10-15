@@ -9,7 +9,7 @@ This is a rails application template to boost your application setup speed.
 - [x] [Pry rails](https://github.com/rweng/pry-rails)
 - [x] [Pry byebug](https://github.com/deivid-rodriguez/pry-byebug)
 - [ ] [Devise](https://github.com/plataformatec/devise)
-- [ ] [Pundit](https://github.com/elabs/pundit)
+- [x] [Pundit](https://github.com/elabs/pundit)
 - [ ] Controller concerns(SkipAuthorization)
 - [x] [Pagination kaminari](https://github.com/kaminari/kaminari)
 - [ ] Customize Generators Configuration

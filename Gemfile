@@ -60,6 +60,9 @@ gem "rack-timeout"
 # Faster JSON
 gem 'oj'
 
+# Authorization
+gem "pundit"
+
 # Enable cross orgin request
 gem 'rack-cors', :require => 'rack/cors'
 
