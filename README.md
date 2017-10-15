@@ -34,6 +34,7 @@ This is a rails application template to boost your application setup speed.
 - [x] [dry gem sets](http://dry-rb.org)
 - [ ] [Redis](https://github.com/redis-store/redis-rails)
 - [x] [React](https://github.com/shakacode/react_on_rails)
+- [ ] [Redux](https://github.com/shakacode/react_on_rails)
 
 ## Setup
 ```ruby
