@@ -7,7 +7,7 @@ This is a rails application template to boost your application setup speed.
 - [x] [Rubocop](https://github.com/bbatsov/rubocop)
 - [x] [Brakeman](https://github.com/presidentbeef/brakeman)
 - [x] [Pry rails](https://github.com/rweng/pry-rails)
-- [ ] [Pry byebug](https://github.com/deivid-rodriguez/pry-byebug)
+- [x] [Pry byebug](https://github.com/deivid-rodriguez/pry-byebug)
 - [ ] [Devise](https://github.com/plataformatec/devise)
 - [ ] [Pundit](https://github.com/elabs/pundit)
 - [ ] Controller concerns(SkipAuthorization)
@@ -16,7 +16,7 @@ This is a rails application template to boost your application setup speed.
 - [ ] Customize Generators Configuration
 - [ ] [Active Model Serializer](https://github.com/rails-api/active_model_serializers)
 - [ ] Remove never used gems
-- [ ] [Figaro](https://github.com/laserlemon/figaro)
+- [x] [Figaro](https://github.com/laserlemon/figaro)
 - [x] [Overcommit](https://github.com/brigade/overcommit)
 - [ ] [Capistrano](https://github.com/capistrano/capistrano)
 - [ ] [Sidekiq](http://sidekiq.org/)
