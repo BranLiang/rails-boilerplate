@@ -9,3 +9,8 @@ AllCops:
     - db/schema.rb
     - lib/**/*.rake
     - config/environments/*.rb
+    - config/initializers/*.rb
+Documentation:
+  Enabled: false
+Style/ClassAndModuleChildren:
+  Enabled: false

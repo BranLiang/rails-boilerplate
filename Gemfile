@@ -46,6 +46,7 @@ gem 'dry-validation'
 
 # Security
 gem 'secure_headers', '~> 4.0.1'
+gem 'rack-attack'
 
 # HTML template language
 gem "slim-rails"
