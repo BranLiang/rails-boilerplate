@@ -6,7 +6,7 @@ This is a rails application template to boost your application setup speed.
 ## Checks
 - [x] [Rubocop](https://github.com/bbatsov/rubocop)
 - [x] [Brakeman](https://github.com/presidentbeef/brakeman)
-- [ ] [Pry rails](https://github.com/rweng/pry-rails)
+- [x] [Pry rails](https://github.com/rweng/pry-rails)
 - [ ] [Pry byebug](https://github.com/deivid-rodriguez/pry-byebug)
 - [ ] [Devise](https://github.com/plataformatec/devise)
 - [ ] [Pundit](https://github.com/elabs/pundit)
@@ -17,7 +17,7 @@ This is a rails application template to boost your application setup speed.
 - [ ] [Active Model Serializer](https://github.com/rails-api/active_model_serializers)
 - [ ] Remove never used gems
 - [ ] [Figaro](https://github.com/laserlemon/figaro)
-- [ ] [Overcommit](https://github.com/brigade/overcommit)
+- [x] [Overcommit](https://github.com/brigade/overcommit)
 - [ ] [Capistrano](https://github.com/capistrano/capistrano)
 - [ ] [Sidekiq](http://sidekiq.org/)
 - [ ] [annotate](https://github.com/ctran/annotate_models)
