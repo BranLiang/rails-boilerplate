@@ -1,6 +1,12 @@
 {
   "name": "rails-boilerplate",
   "private": true,
+  "scripts": {
+    "lint": "standard --verbose | snazzy",
+    "precommit": "npm run git-hook",
+    "git-hook": "npm run lint -s",
+    "fix": "standard --fix"
+  },
   "dependencies": {
     "@rails/webpacker": "^3.0.2",
     "babel-preset-react": "^6.24.1",
@@ -11,6 +17,9 @@
     "react-on-rails": "^9.0.3"
   },
   "devDependencies": {
+    "husky": "^0.14.3",
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.3",
     "webpack-dev-server": "^2.9.1"
   }
 }
