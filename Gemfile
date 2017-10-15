@@ -77,6 +77,7 @@ group :development do
   gem 'overcommit'
   gem 'annotate', require: false
   gem 'guard'
+  gem 'bullet'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

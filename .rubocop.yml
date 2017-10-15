@@ -8,3 +8,4 @@ AllCops:
     - node_modules/**/*
     - db/schema.rb
     - lib/**/*.rake
+    - config/environments/*.rb
