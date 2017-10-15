@@ -20,7 +20,7 @@ This is a rails application template to boost your application setup speed.
 - [ ] [Capistrano](https://github.com/capistrano/capistrano)
 - [ ] [Sidekiq](http://sidekiq.org/)
 - [x] [annotate](https://github.com/ctran/annotate_models)
-- [ ] [guard](https://github.com/guard/guard)
+- [x] [guard](https://github.com/guard/guard)
 - [ ] [secureheaders](https://github.com/twitter/secureheaders)
 - [ ] [simplecov](https://github.com/colszowka/simplecov)
 - [ ] [Template engine Slim](https://github.com/slim-template/slim)

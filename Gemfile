@@ -44,6 +44,9 @@ gem 'dry-types'
 gem 'dry-struct'
 gem 'dry-validation'
 
+# Security
+gem 'secure_headers', '~> 4.0.1'
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
@@ -63,6 +66,7 @@ group :development do
   gem 'pry-rails'
   gem 'overcommit'
   gem 'annotate', require: false
+  gem 'guard'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
