@@ -56,6 +56,9 @@ gem "lograge"
 # Kill the request on timeout
 gem "rack-timeout"
 
+# Faster JSON
+gem 'oj'
+
 # Enable cross orgin request
 gem 'rack-cors', :require => 'rack/cors'
 

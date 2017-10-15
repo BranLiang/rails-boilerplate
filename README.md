@@ -28,7 +28,7 @@ This is a rails application template to boost your application setup speed.
 - [x] [Timeout](https://github.com/heroku/rack-timeout)
 - [x] [Bullet](https://github.com/flyerhzm/bullet)
 - [x] [rack-cors](https://github.com/cyu/rack-cors)
-- [ ] [Optimized JSON](https://github.com/ohler55/oj)
+- [x] [Optimized JSON](https://github.com/ohler55/oj)
 - [ ] [rack-attack](https://github.com/kickstarter/rack-attack)
 - [ ] [Elastic search](https://github.com/elastic/elasticsearch-rails)
 - [x] [dry gem sets](http://dry-rb.org)
