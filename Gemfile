@@ -69,6 +69,10 @@ gem 'rack-cors', :require => 'rack/cors'
 # React integration
 gem 'react_on_rails', '~> 9.0.1'
 
+# Full text search
+gem 'elasticsearch-model'
+gem 'elasticsearch-rails'
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
