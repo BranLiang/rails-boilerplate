@@ -53,6 +53,9 @@ gem "slim-rails"
 # Better production logs
 gem "lograge"
 
+# Kill the request on timeout
+gem "rack-timeout"
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
