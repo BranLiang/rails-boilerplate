@@ -56,6 +56,9 @@ gem "lograge"
 # Kill the request on timeout
 gem "rack-timeout"
 
+# Enable cross orgin request
+gem 'rack-cors', :require => 'rack/cors'
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
