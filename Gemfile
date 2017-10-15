@@ -45,7 +45,7 @@ gem 'dry-struct'
 gem 'dry-validation'
 
 # Security
-gem 'secure_headers', '~> 4.0.1'
+# gem 'secure_headers', '~> 4.0.1'
 gem 'rack-attack'
 
 # HTML template language
@@ -95,3 +95,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'mini_racer', platforms: :ruby
