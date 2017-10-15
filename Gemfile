@@ -36,6 +36,9 @@ gem 'jbuilder', '~> 2.5'
 # Configuration using ENV and a single YAML file
 gem "figaro"
 
+# Pagination
+gem 'kaminari'
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver

@@ -11,7 +11,7 @@ This is a rails application template to boost your application setup speed.
 - [ ] [Devise](https://github.com/plataformatec/devise)
 - [ ] [Pundit](https://github.com/elabs/pundit)
 - [ ] Controller concerns(SkipAuthorization)
-- [ ] [Pagination kaminari](https://github.com/kaminari/kaminari)
+- [x] [Pagination kaminari](https://github.com/kaminari/kaminari)
 - [ ] [Searching filtering Ransack](https://github.com/activerecord-hackery/ransack)
 - [ ] Customize Generators Configuration
 - [ ] [Active Model Serializer](https://github.com/rails-api/active_model_serializers)
