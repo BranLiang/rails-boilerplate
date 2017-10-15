@@ -47,6 +47,9 @@ gem 'dry-validation'
 # Security
 gem 'secure_headers', '~> 4.0.1'
 
+# HTML template language
+gem "slim-rails"
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
