@@ -12,7 +12,6 @@ This is a rails application template to boost your application setup speed.
 - [ ] [Pundit](https://github.com/elabs/pundit)
 - [ ] Controller concerns(SkipAuthorization)
 - [x] [Pagination kaminari](https://github.com/kaminari/kaminari)
-- [ ] [Searching filtering Ransack](https://github.com/activerecord-hackery/ransack)
 - [ ] Customize Generators Configuration
 - [ ] [Active Model Serializer](https://github.com/rails-api/active_model_serializers)
 - [ ] Remove never used gems
@@ -31,6 +30,7 @@ This is a rails application template to boost your application setup speed.
 - [ ] [rack-cors](https://github.com/cyu/rack-cors)
 - [ ] [Optimized JSON](https://github.com/ohler55/oj)
 - [ ] [rack-attack](https://github.com/kickstarter/rack-attack)
+- [ ] [Elastic search](https://github.com/elastic/elasticsearch-rails)
 
 ## Setup
 ```ruby
