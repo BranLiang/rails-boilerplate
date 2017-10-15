@@ -39,6 +39,11 @@ gem "figaro"
 # Pagination
 gem 'kaminari'
 
+# dry gems sets
+gem 'dry-types'
+gem 'dry-struct'
+gem 'dry-validation'
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
@@ -57,6 +62,7 @@ group :development do
   gem 'brakeman', :require => false
   gem 'pry-rails'
   gem 'overcommit'
+  gem 'annotate', require: false
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

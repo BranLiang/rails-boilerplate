@@ -13,13 +13,13 @@ This is a rails application template to boost your application setup speed.
 - [ ] Controller concerns(SkipAuthorization)
 - [x] [Pagination kaminari](https://github.com/kaminari/kaminari)
 - [ ] Customize Generators Configuration
-- [ ] [Active Model Serializer](https://github.com/rails-api/active_model_serializers)
+- [ ] [Active Model Serializer](https://github.com/rails-api/active_model_serializers) or [jsonapi-rb](http://jsonapi-rb.org/)
 - [ ] Remove never used gems
 - [x] [Figaro](https://github.com/laserlemon/figaro)
 - [x] [Overcommit](https://github.com/brigade/overcommit)
 - [ ] [Capistrano](https://github.com/capistrano/capistrano)
 - [ ] [Sidekiq](http://sidekiq.org/)
-- [ ] [annotate](https://github.com/ctran/annotate_models)
+- [x] [annotate](https://github.com/ctran/annotate_models)
 - [ ] [guard](https://github.com/guard/guard)
 - [ ] [secureheaders](https://github.com/twitter/secureheaders)
 - [ ] [simplecov](https://github.com/colszowka/simplecov)
@@ -31,6 +31,7 @@ This is a rails application template to boost your application setup speed.
 - [ ] [Optimized JSON](https://github.com/ohler55/oj)
 - [ ] [rack-attack](https://github.com/kickstarter/rack-attack)
 - [ ] [Elastic search](https://github.com/elastic/elasticsearch-rails)
+- [x] [dry gem sets](http://dry-rb.org)
 
 ## Setup
 ```ruby
@@ -39,3 +40,7 @@ bundle install
 # Step 2
 overcommit --sign
 ```
+
+## Guidelines
+1. Building Form object using [dry-types](https://github.com/dry-rb/dry-types) and [dry-validation](https://github.com/dry-rb/dry-validation), [resources](http://cucumbersome.net/2016/09/06/rails-form-objects-with-dry-rb.html)
+2. API specification ? JSON API?
