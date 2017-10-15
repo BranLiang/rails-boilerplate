@@ -24,7 +24,7 @@ This is a rails application template to boost your application setup speed.
 - [x] [secureheaders](https://github.com/twitter/secureheaders)
 - [x] [simplecov](https://github.com/colszowka/simplecov)
 - [x] [Template engine Slim](https://github.com/slim-template/slim)
-- [ ] [Lograge](https://github.com/roidrage/lograge)
+- [x] [Lograge](https://github.com/roidrage/lograge)
 - [ ] [Timeout](https://github.com/heroku/rack-timeout)
 - [ ] [Bullet](https://github.com/flyerhzm/bullet)
 - [ ] [rack-cors](https://github.com/cyu/rack-cors)

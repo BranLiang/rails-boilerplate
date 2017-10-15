@@ -50,6 +50,9 @@ gem 'secure_headers', '~> 4.0.1'
 # HTML template language
 gem "slim-rails"
 
+# Better production logs
+gem "lograge"
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
