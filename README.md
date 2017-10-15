@@ -5,7 +5,7 @@ This is a rails application template to boost your application setup speed.
 
 ## Checks
 - [x] [Rubocop](https://github.com/bbatsov/rubocop)
-- [ ] [Brakeman](https://github.com/presidentbeef/brakeman)
+- [x] [Brakeman](https://github.com/presidentbeef/brakeman)
 - [ ] [Pry rails](https://github.com/rweng/pry-rails)
 - [ ] [Pry byebug](https://github.com/deivid-rodriguez/pry-byebug)
 - [ ] [Devise](https://github.com/plataformatec/devise)
