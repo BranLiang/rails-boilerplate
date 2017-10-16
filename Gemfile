@@ -73,6 +73,9 @@ gem 'react_on_rails', '~> 9.0.1'
 gem 'elasticsearch-model'
 gem 'elasticsearch-rails'
 
+# Background job
+gem 'sidekiq'
+
 group :development, :test do
   gem 'pry-byebug'
   # Adds support for Capybara system testing and selenium driver
