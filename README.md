@@ -30,7 +30,7 @@ This is a rails application template to boost your application setup speed.
 - [x] [rack-cors](https://github.com/cyu/rack-cors)
 - [x] [Optimized JSON](https://github.com/ohler55/oj)
 - [x] [rack-attack](https://github.com/kickstarter/rack-attack)
-- [ ] [Elastic search](https://github.com/elastic/elasticsearch-rails)
+- [x] [Elastic search](https://github.com/elastic/elasticsearch-rails)
 - [x] [dry gem sets](http://dry-rb.org)
 - [ ] [Redis](https://github.com/redis-store/redis-rails)
 - [x] [React](https://github.com/shakacode/react_on_rails)
