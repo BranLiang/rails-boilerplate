@@ -25,3 +25,4 @@
 /config/application.yml
 
 /coverage
+dump.rdb
