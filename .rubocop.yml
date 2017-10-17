@@ -7,6 +7,7 @@ AllCops:
     - Gemfile
     - node_modules/**/*
     - db/schema.rb
+    - db/migrate/*.rb
     - lib/**/*.rake
     - config/environments/*.rb
     - config/initializers/*.rb
