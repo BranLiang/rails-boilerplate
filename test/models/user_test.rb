@@ -38,6 +38,6 @@ require 'test_helper'
 
 class UserTest < ActiveSupport::TestCase
   test 'default to normal user' do
-    assert_equal 'user', users(:normal).role
+    assert_equal 'user', users(:david).role
   end
 end

@@ -34,9 +34,9 @@
 #  index_users_on_unlock_token          (unlock_token) UNIQUE
 #
 
-normal:
-  email: user@email.com
-  name: NormalUser
+david:
+  email: david@email.com
+  name: David
 
 admin:
   email: admin@email.com
