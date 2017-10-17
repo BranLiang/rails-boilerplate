@@ -34,14 +34,12 @@
 #  index_users_on_unlock_token          (unlock_token) UNIQUE
 #
 
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+normal:
+  email: user@email.com
+  role: user
+  name: NormalUser
 
-# This model initially had no columns defined. If you add columns to the
-# model remove the '{}' from the fixture names and add the columns immediately
-# below each fixture, per the syntax in the comments below
-#
-one: {}
-# column: value
-#
-two: {}
-# column: value
+admin: {}
+  email: admin@email.com
+  role: admin
+  name: Administrator
