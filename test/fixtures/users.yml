@@ -36,10 +36,9 @@
 
 normal:
   email: user@email.com
-  role: user
   name: NormalUser
 
-admin: {}
+admin:
   email: admin@email.com
   role: admin
   name: Administrator

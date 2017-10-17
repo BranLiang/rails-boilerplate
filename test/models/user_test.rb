@@ -37,7 +37,7 @@
 require 'test_helper'
 
 class UserTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+  test 'default to normal user' do
+    assert_equal 'user', users(:normal).role
+  end
 end
