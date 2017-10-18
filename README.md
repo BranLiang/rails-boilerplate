@@ -32,9 +32,9 @@ This is a rails application template to boost your application setup speed.
 - [x] [rack-attack](https://github.com/kickstarter/rack-attack)
 - [x] [Elastic search](https://github.com/elastic/elasticsearch-rails)
 - [x] [dry gem sets](http://dry-rb.org)
-- [ ] [Redis](https://github.com/redis-store/redis-rails)
+- [x] [Redis](https://github.com/redis-store/redis-rails)
 - [x] [React](https://github.com/shakacode/react_on_rails)
-- [ ] [Redux](https://github.com/shakacode/react_on_rails)
+- [x] [Redux](https://github.com/shakacode/react_on_rails)
 
 ## Setup
 ```ruby
