@@ -47,3 +47,4 @@ overcommit --sign
 ## Guidelines
 1. Building Form object using [dry-types](https://github.com/dry-rb/dry-types) and [dry-validation](https://github.com/dry-rb/dry-validation), [resources](http://cucumbersome.net/2016/09/06/rails-form-objects-with-dry-rb.html)
 2. API specification ? JSON API?
+3. Turbolinks or Not Turbolinks?
