@@ -1,4 +1,3 @@
-inherit_from: .rubocop_todo.yml
 AllCops:
   Include:
     - Rakefile
@@ -15,3 +14,53 @@ Documentation:
   Enabled: false
 Style/ClassAndModuleChildren:
   Enabled: false
+Bundler/OrderedGems:
+  Exclude:
+    - 'Gemfile'
+Layout/AlignParameters:
+  Exclude:
+    - 'bin/webpack'
+    - 'bin/webpack-dev-server'
+Layout/EmptyLineAfterMagicComment:
+  Exclude:
+    - 'bin/webpack'
+    - 'bin/webpack-dev-server'
+Layout/EmptyLines:
+  Exclude:
+    - 'Gemfile'
+    - 'bin/setup'
+Layout/SpaceInsideBrackets:
+  Exclude:
+    - 'config/environments/production.rb'
+Metrics/LineLength:
+  Max: 130
+Style/ClassAndModuleChildren:
+  Exclude:
+    - 'test/test_helper.rb'
+Style/Documentation:
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+    - 'app/controllers/application_controller.rb'
+    - 'app/helpers/application_helper.rb'
+    - 'app/mailers/application_mailer.rb'
+    - 'app/models/application_record.rb'
+    - 'config/application.rb'
+Style/PercentLiteralDelimiters:
+  Exclude:
+    - 'config/spring.rb'
+Style/StringLiterals:
+  Exclude:
+    - 'Gemfile'
+    - 'bin/spring'
+    - 'bin/webpack'
+    - 'bin/webpack-dev-server'
+    - 'bin/yarn'
+    - 'config/environments/production.rb'
+    - 'config/puma.rb'
+    - 'test/application_system_test_case.rb'
+Style/StringLiteralsInInterpolation:
+  Exclude:
+    - 'bin/yarn'
+Style/SymbolArray:
+  EnforcedStyle: brackets
