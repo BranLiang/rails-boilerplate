@@ -2,12 +2,12 @@ import { createReducer, createActions } from 'reduxsauce'
 
 /* ------------- Types and Actions ------------- */
 
-const { Types, Actions } = createActions({
+const { Types, Creators } = createActions({
   updateName: ['text']
 })
 
 export const NameTypes = Types
-export default Actions
+export default Creators
 
 /* ------------- Initial State ------------- */
 
